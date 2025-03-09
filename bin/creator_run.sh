@@ -11,9 +11,9 @@ export LOGURU_LEVEL=INFO
 
 export STREAMLIT_SERVER_PORT=8501
 # set COMFYFLOW_API_URL to comfyflow api url
-export COMFYFLOW_API_URL=https://api.comfyflow.app
+export COMFYFLOW_API_URL=http://38.207.176.168/
 # set COMFYUI_SERVER_ADDR to comfyui server addr
-export COMFYUI_SERVER_ADDR=http://localhost:8188
+export COMFYUI_SERVER_ADDR=http://139.196.236.28/
 # set MODE to Creator
 export MODE=Creator
 
